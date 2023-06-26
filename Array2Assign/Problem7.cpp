@@ -31,4 +31,4 @@ int main() {
 
 
 
-//njkx
+//nj
